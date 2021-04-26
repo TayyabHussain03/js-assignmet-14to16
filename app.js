@@ -58,3 +58,9 @@
 // document.write("<h3>" + "Cities List: " + cityNames + "<h3/>")
 // document.write("<h3>" + "Selected Cities List: " + cityNames.splice(2,2) + "<h3/>")
 
+// *****QUESTION 12*****
+
+// var arr = ["This ", "is ",  "my", " cat"];
+// document.write("<h3>" + "Array: " + arr + "<h3/>")
+// document.write("<h3>" + "String: " + arr.join('') + "<h3/>")
+
