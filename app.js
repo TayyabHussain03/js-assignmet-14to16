@@ -34,12 +34,6 @@
 // color.unshift(input, input1)
 // document.write(color)
 
-// *****QUESTION 11*****
-
-// var cityNames = ["Karachi"," Lahore"," Islamabad"," Quetta"," Peshawar"]
-// document.write("<h3>" + "Cities List: " + cityNames + "<h3/>")
-// document.write("<h3>" + "Selected Cities List: " + cityNames.splice(2,2) + "<h3/>")
-
 // *****QUESTION 9d*****
 
 // var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
@@ -57,3 +51,10 @@
 // var stdScore = ["320"," 230"," 480"," 120"]
 // document.write("<h3>" + "Score of Students: " + stdScore + "<h3/>")
 // document.write("<h3>" + "Ordered Score of Students: " + stdScore.sort() + "<h3/>")
+
+// *****QUESTION 11*****
+
+// var cityNames = ["Karachi"," Lahore"," Islamabad"," Quetta"," Peshawar"]
+// document.write("<h3>" + "Cities List: " + cityNames + "<h3/>")
+// document.write("<h3>" + "Selected Cities List: " + cityNames.splice(2,2) + "<h3/>")
+
