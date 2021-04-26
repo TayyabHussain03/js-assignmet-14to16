@@ -11,3 +11,17 @@
 // document.write("<h3>" + "Score of " + stdName[0] + " is " + stdScore[0] + ". " + "Percentage: " + stdPercentage[0] + "%" + "<h3/>");
 // document.write("<h3>" + "Score of " + stdName[1] + " is " + stdScore[1] + ". " + "Percentage: " + stdPercentage[1] + "%" + "<h3/>");
 // document.write("<h3>" + "Score of " + stdName[2] + " is " + stdScore[2] + ". " + "Percentage: " + stdPercentage[2] + "%" + "<h3/>");
+
+// *****QUESTION 9a*****
+
+// var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
+// var input = prompt("What Color That You Want to add to the Beginning of the Array");
+// color.unshift(input)
+// document.write(color)
+
+// *****QUESTION 9b*****
+
+// var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
+// var input = prompt("What Color That You Want to add to the End of the Array");
+// color.push(input)
+// document.write(color)
