@@ -25,3 +25,17 @@
 // var input = prompt("What Color That You Want to add to the End of the Array");
 // color.push(input)
 // document.write(color)
+
+// *****QUESTION 9c*****
+
+// var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
+// var input = prompt("What Color That You Want to add to the End of the Array");
+// var input1 = prompt("What will be the Second Color That You Want to add to the End of the Array");
+// color.unshift(input, input1)
+// document.write(color)
+
+// *****QUESTION 9d*****
+
+// var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
+// color.pop()
+// document.write(color)
