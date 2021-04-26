@@ -56,7 +56,8 @@
 
 // var cityNames = ["Karachi"," Lahore"," Islamabad"," Quetta"," Peshawar"]
 // document.write("<h3>" + "Cities List: " + cityNames + "<h3/>")
-// document.write("<h3>" + "Selected Cities List: " + cityNames.splice(2,2) + "<h3/>")
+// var selectedCityNames = cityNames.slice(2,4)
+// document.write("<h3>" + "Selected Cities List: " + selectedCityNames + "<h3/>")
 
 // *****QUESTION 12*****
 
