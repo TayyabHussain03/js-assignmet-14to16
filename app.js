@@ -45,3 +45,9 @@
 // var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
 // color.pop()
 // document.write(color)
+
+// *****QUESTION 10*****
+
+// var stdScore = ["320"," 230"," 480"," 120"]
+// document.write("<h3>" + "Score of Students: " + stdScore + "<h3/>")
+// document.write("<h3>" + "Ordered Score of Students: " + stdScore.sort() + "<h3/>")
