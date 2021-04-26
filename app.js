@@ -37,5 +37,11 @@
 // *****QUESTION 9d*****
 
 // var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
+//color.pop()
+// document.write(color)
+
+// *****QUESTION 9e*****
+
+// var color = ["Red ", " Green ", " Blue ", " Black ", " White"];
 // color.pop()
 // document.write(color)
